@@ -1,0 +1,281 @@
+{
+  "ventas": [
+    {
+      "fecha": "2015-06-10",
+      "cliente": "Julian Alvarez",
+      "producto": "Vino Estancia Mendoza",
+      "precio": "1200",
+      "cantidad": "4",
+      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/8313a15b471f948db4d9d07d4a9f04a2/2/1/21022.jpg",
+      "total": 4800,
+      "id": 1
+    },
+    {
+      "fecha": "2023-12-04",
+      "cliente": "Lionel Messi",
+      "producto": "Jabon Plusbelle",
+      "precio": "300",
+      "cantidad": "12",
+      "imagen": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3011550_f.jpg",
+      "total": 3600,
+      "id": 2
+    },
+    {
+      "fecha": "2023-12-12",
+      "cliente": "Lionel Messi",
+      "producto": "Preservativos PRIME",
+      "precio": "1120",
+      "cantidad": "10",
+      "imagen": "https://farmacityar.vtexassets.com/arquivos/ids/238782/19177_preservativo-de-latex-mayor-placer-texturado-x-3-un___imagen-1.jpg?v=638144009988670000",
+      "total": 11200,
+      "id": 3
+    }
+  ],
+  "productos": [
+    {
+      "NombreProducto": "Atun",
+      "PrecioProducto": "820.12",
+      "Cantidad": "4",
+      "imagen": "https://www.mayoristanet.com/media/catalog/product/cache/7c7e7e8fca0426f106cb3e3371a80f9c/A/0/A09494_1.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "NombreProducto": "Fanta 1L",
+      "PrecioProducto": 850,
+      "Cantidad": 12,
+      "imagen": "https://tusuper.com.ar/image/cache/catalog/P2020/Bebidas/FANTA-NARANJA-ZERO-1.5lts-800x800.png"
+    },
+    {
+      "id": 3,
+      "NombreProducto": "Yerba Amanda 1kg",
+      "PrecioProducto": 400,
+      "Cantidad": 30,
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/151/835/products/77927100001751-09d0a9e978db0ecb4c16638902088017-640-0.jpg"
+    },
+    {
+      "id": 4,
+      "NombreProducto": "Jabon Plusbelle",
+      "PrecioProducto": 150,
+      "Cantidad": 2,
+      "imagen": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3011550_f.jpg"
+    },
+    {
+      "id": 5,
+      "NombreProducto": "Queso Crema Paladini",
+      "PrecioProducto": 850,
+      "Cantidad": 15,
+      "imagen": "https://www.paladini.com.ar/assets/img/productos/productos/cremoso.png"
+    },
+    {
+      "id": 6,
+      "NombreProducto": "Fernet Branca 1L",
+      "PrecioProducto": 1100,
+      "Cantidad": 5,
+      "imagen": "https://acdn.mitiendanube.com/stores/001/973/129/products/fernet-750-ml1-22d096fb5ba1cd0fa116594576444795-640-0.jpg"
+    },
+    {
+      "NombreProducto": "Vodka Skyy",
+      "PrecioProducto": "1200",
+      "Cantidad": 40,
+      "id": 7,
+      "imagen": "https://d2izjnmtylvtfh.cloudfront.net/34539019-large_default/vodka-skyy-750ml.jpg"
+    },
+    {
+      "NombreProducto": "Coca Cola 2L",
+      "PrecioProducto": "800",
+      "Cantidad": 120,
+      "id": 8,
+      "imagen": "https://franoidelivery.com.br/wp-content/uploads/2021/03/Pet-2-Litros-Coca-Cola-PNG.png"
+    },
+    {
+      "NombreProducto": "Agua Kin",
+      "PrecioProducto": "300",
+      "Cantidad": 40,
+      "id": 9,
+      "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/220199/7790895064456_02.jpg?v=637704294285400000"
+    },
+    {
+      "NombreProducto": "Chocolate Aguila",
+      "PrecioProducto": 500,
+      "Cantidad": 100,
+      "id": 10,
+      "imagen": "https://arcorencasa.com/wp-content/uploads/2023/06/20230522-3101.jpg"
+    },
+    {
+      "NombreProducto": "Seven Up",
+      "PrecioProducto": 750,
+      "Cantidad": 35,
+      "id": 11,
+      "imagen": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3080039_f.jpg"
+    },
+    {
+      "NombreProducto": "Chicles Beldent",
+      "PrecioProducto": 120,
+      "Cantidad": 120,
+      "id": 12,
+      "imagen": "https://i0.wp.com/golmarymar.com.ar/wp-content/uploads/4531.jpg?fit=600%2C600&ssl=1"
+    },
+    {
+      "NombreProducto": "Vodka Sernova",
+      "PrecioProducto": 1200.3,
+      "Cantidad": 120,
+      "id": 13,
+      "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/226766/7790290101510_02.jpg?v=637715449439130000"
+    },
+    {
+      "NombreProducto": "Vino Estancia Mendoza",
+      "PrecioProducto": 950,
+      "Cantidad": 75,
+      "id": 14,
+      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/8313a15b471f948db4d9d07d4a9f04a2/2/1/21022.jpg"
+    },
+    {
+      "NombreProducto": "Vino Dada",
+      "PrecioProducto": 1150,
+      "Cantidad": 95,
+      "id": 15,
+      "imagen": "https://oslobebidas.com.ar/wp-content/uploads/2021/06/dada_art_oslo_market_almacen_de_bebidas-2.jpg"
+    },
+    {
+      "NombreProducto": "Cigarrillos Marlboro",
+      "PrecioProducto": 1350,
+      "Cantidad": 45,
+      "id": 16,
+      "imagen": "https://static.wixstatic.com/media/772915_b3f39647cc2a4957adfec390937767be.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
+    },
+    {
+      "NombreProducto": "Jugo Cepita",
+      "PrecioProducto": "850",
+      "Cantidad": "50",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/151/835/products/77908956415341-c3ca6c6d1ffaa4a70d16107299170844-640-0.jpg",
+      "id": 17
+    },
+    {
+      "NombreProducto": "Preservativos PRIME",
+      "PrecioProducto": "1150",
+      "Cantidad": "25",
+      "imagen": "https://farmacityar.vtexassets.com/arquivos/ids/238782/19177_preservativo-de-latex-mayor-placer-texturado-x-3-un___imagen-1.jpg?v=638144009988670000",
+      "id": 18
+    },
+    {
+      "NombreProducto": "Quilmes Stout Lata",
+      "PrecioProducto": "850.15",
+      "Cantidad": "25",
+      "imagen": "https://acdn.mitiendanube.com/stores/001/448/812/products/quilmes1-6bfb5e023e24ecdb4416388994278598-1024-1024.png",
+      "id": 19
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "NombreYApellido": "Exequiel Nuñez",
+      "Edad": 33,
+      "Domicilio": "Amador Lucero 70"
+    },
+    {
+      "id": 2,
+      "NombreYApellido": "Santiago Maza",
+      "Edad": 24,
+      "Domicilio": "Jose Manuel Estrada 4517"
+    },
+    {
+      "id": 3,
+      "NombreYApellido": "Ramiro Argañaraz",
+      "Edad": 21,
+      "Domicilio": "Las Talitas"
+    },
+    {
+      "id": 4,
+      "NombreYApellido": "Emiliano Martinez",
+      "Edad": 32,
+      "Domicilio": "Manchester 4522"
+    },
+    {
+      "id": 5,
+      "NombreYApellido": "Lionel Messi",
+      "Edad": 36,
+      "Domicilio": "Miami calle s/n"
+    },
+    {
+      "id": 6,
+      "NombreYApellido": "Julian Alvarez",
+      "Edad": 23,
+      "Domicilio": "Manchester"
+    },
+    {
+      "id": 7,
+      "NombreYApellido": "Marcelo Gallardo",
+      "Edad": 47,
+      "Domicilio": "Arabia"
+    },
+    {
+      "id": 8,
+      "NombreYApellido": "Lionel Scaloni",
+      "Edad": 44,
+      "Domicilio": "Buenos Aires 1956"
+    }
+  ],
+  "empleados": [
+    {
+      "NombreEmpleado": "Lionel Messi",
+      "Edad": 36,
+      "SalarioMensual": 350000,
+      "id": 1
+    },
+    {
+      "NombreEmpleado": "Diego Maradona",
+      "Edad": 60,
+      "SalarioMensual": 12350000,
+      "id": 2
+    },
+    {
+      "NombreEmpleado": "Claudio Echeverry",
+      "Edad": 20,
+      "SalarioMensual": 250000,
+      "id": 3
+    }
+  ],
+  "usuarios": [
+    {
+      "role": "admin",
+      "nombre": "AdminGral",
+      "email": "adminkiosquito@gmail.com",
+      "usuario": "admin",
+      "contraseña": "ADMIN",
+      "id": 1
+    },
+    {
+      "role": "admin",
+      "nombre": "Santiago Maza",
+      "email": "santiagommaza@gmail.com",
+      "usuario": "santimaza",
+      "contraseña": "santiMaza",
+      "id": 2
+    },
+    {
+      "role": "user",
+      "nombre": "Exequiel Nuñez",
+      "email": "exenuñez@gmail.com",
+      "usuario": "exenuñez",
+      "contraseña": "exeNuñez",
+      "id": 3
+    },
+    {
+      "role": "user",
+      "nombre": "Nicolas Alvarez",
+      "email": "nicoalvarez@gmail.com",
+      "usuario": "nicoalvarez",
+      "contraseña": "nicoAlvarez",
+      "id": 4
+    },
+    {
+      "role": "user",
+      "nombre": "Ramiro Leonardo Argañaraz",
+      "email": "ramiroargañaraz@gmail.com",
+      "usuario": "ramargañaraz",
+      "contraseña": "ramaArgañaraz",
+      "id": 5
+    }
+  ]
+}
