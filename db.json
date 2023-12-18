@@ -284,6 +284,14 @@
       "usuario": "silburgos70",
       "contraseña": "silburgos",
       "id": 6
+    },
+    {
+      "role": "user",
+      "nombre": "Miguel Angel Maza",
+      "email": "mazamiguel@gmail.com",
+      "usuario": "miguelmaza69",
+      "contraseña": "miguelito1",
+      "id": 7
     }
   ]
 }
