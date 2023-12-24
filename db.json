@@ -276,22 +276,6 @@
       "usuario": "ramargañaraz",
       "contraseña": "ramaArgañaraz",
       "id": 5
-    },
-    {
-      "role": "user",
-      "nombre": "Silvana Burgos",
-      "email": "sil.burgos@gmail.com",
-      "usuario": "silburgos70",
-      "contraseña": "silburgos",
-      "id": 6
-    },
-    {
-      "role": "user",
-      "nombre": "Miguel Angel Maza",
-      "email": "mazamiguel@gmail.com",
-      "usuario": "miguelmaza69",
-      "contraseña": "miguelito1",
-      "id": 7
     }
   ]
 }
